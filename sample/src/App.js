@@ -9,7 +9,7 @@ function App() {
 				{ answerText: 'New York', isCorrect: false },
 				{ answerText: 'London', isCorrect: false },
 				{ answerText: 'Paris', isCorrect: true },
-				{ answerText: 'Texas', isCorrect: false },
+				{ answerText: 'Tennesse', isCorrect: false },
 			],
 		},
 		{
